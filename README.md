@@ -1,28 +1,16 @@
 
 
 <h1 align='center'>
-  Hi there 👋 I'm Andrei 👨‍💻
+  Hi there 👋 I'm Andrei
 </h1>
 
 <p align='center'>
   An embedded developer from Russia. Сurrently living in Turkey.
 </p>
 
-
-
 <p align='center'>
-  
-  <a href="https://www.linkedin.com/in/andrei-driupin/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-<!--   <a href="https://instagram.com/dryupin">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
-  </a>&nbsp;&nbsp; -->
-  
-</p>
-
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=forem1&show_icons=true&count_private=true&theme=dark" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=forem1&show_icons=true&count_private=true&theme=dark" width="400"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=forem1&layout=compact&theme=dark" width="303"></a>
 </p>
 
 <!-- <p align='center'>
@@ -42,33 +30,52 @@
 </details>-->
 
 <p align='center'>
-  <a href="#"><img src="https://www.codewars.com/users/forem1/badges/large"></a>
+  <a href="https://www.codewars.com/users/forem1"><img src="https://www.codewars.com/users/forem1/badges/large"></a>
 </p>
+
 <p align='center'>
-  📫 How to reach me: <a href='mailto:mrforemar@gmail.com'>mrforemar@gmail.com</a>
+  
+  <a href="https://www.linkedin.com/in/andrei-driupin/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+<!--   <a href="https://instagram.com/dryupin">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>&nbsp;&nbsp; -->
+  
+</p>
+
+<p>
+  📫 How to reach me: </br>
+  E-mail: <a href='mailto:mrforemar@gmail.com'>mrforemar@gmail.com</a></br>
+  Telegram: <a href='https://t.me/forem1'>forem1</a>
 </p>
 
 <details>
   <summary>📃 Resume</summary>
-
-
+  
 ## Education
 
 - 📖 **IT Systems and Technologies**\
-📆 2022 - Present\
+📆 June 2022 - Present\
 📍 **Bachelor, Moscow University for Industry and Finance “Synergy”** - Moscow, Russia
   
 - 📖 **IT Systems and Programming**\
-📆 2018 - 2022\
+📆 September 2018 - June 2022\
 📍 **Vocational school, Plekhanov Russian Academy of Economics** - Moscow, Russia
 
 ## Experience
 
+- 👨‍💻 **Freelancer**\
+📆 March 2023 - Present\
+📍 **Everywhere**
+  
 - 👨‍💻 **Embedded engineer**\
-📆 2021 - present\
+📆 May 2021 - March 2023\
 📍 **Innocenter VAO LLC** - Moscow, Russia
   
 - 👨‍💻 **Intern**\
-📆 2020 - 2021\
+📆 October 2020 - May 2021\
 📍 **Innocenter VAO LLC** - Moscow, Russia
-
+ </details>
+  
+ ![](https://komarev.com/ghpvc/?username=forem1)
