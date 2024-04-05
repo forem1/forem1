@@ -5,7 +5,7 @@
 </h1>
 
 <p align='center'>
-  An embedded developer from Russia. Сurrently living in Turkey.
+  An embedded developer. Сurrently living in Germany.
 </p>
 
 <p align='center'>
@@ -34,14 +34,13 @@
 </p>
 
 <p align='center'>
-  
+  <a href="https://leetcode.com/forem1/"><img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fforem1&logo=leetcode&logoColor=yellow)"></a>
+</p>
+
+<p align='center'>
   <a href="https://www.linkedin.com/in/andrei-driupin/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-<!--   <a href="https://instagram.com/dryupin">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
-  </a>&nbsp;&nbsp; -->
-  
 </p>
 
 <p>
